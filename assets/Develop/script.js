@@ -83,3 +83,6 @@ saveBtn9.addEventListener('click', savedText9);
 function savedText9() {
     localStorage.setItem('data9', textBtn9.value);
 };
+
+//Color coding of timeslots
+
