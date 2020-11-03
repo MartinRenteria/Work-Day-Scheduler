@@ -4,9 +4,11 @@
 <br>
 Link to respository website: https://github.com/MartinRenteria/Work-Day-Scheduler.git
 <br>
+<br>
 Link to live site: https://martinrenteria.github.io/Work-Day-Scheduler/
 
 <b>05 Third-Party APIs: Work Day Scheduler</b>
+<br>
 Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 You'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
@@ -20,7 +22,7 @@ I WANT to add important events to a daily planner
 <br>
 SO THAT I can manage my time effectively
 <br>
-<b>Acceptance Criteria</b?>
+<b>Acceptance Criteria</b>
 <br>
 Aim to meet the following acceptance criteria:
 <br>
