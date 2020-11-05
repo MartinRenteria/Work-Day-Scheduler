@@ -24,6 +24,7 @@ I WANT to add important events to a daily planner
 <br>
 SO THAT I can manage my time effectively
 <br>
+<br>
 <b>Acceptance Criteria</b>
 <br>
 <br>
@@ -59,7 +60,9 @@ The following animation demonstrates the application functionality:
 
 A user clicks on slots on the color-coded calendar and edits the events.
 
-Review
+<b>Review</b>
+<br>
+<br>
 You are required to submit the following for review:
 
 The URL of the deployed application
