@@ -1,72 +1,38 @@
 # Work-Day-Scheduler
 
-<b>Links</b>
-<br>
-Link to respository website: https://github.com/MartinRenteria/Work-Day-Scheduler.git
-<br>
-<br>
-Link to live site: https://martinrenteria.github.io/Work-Day-Scheduler/
+# Description
+This application is a daily planner for an average work day or as a basic scheduler. The application features the moments.js API to capture real time information. As time passes, it will set the background color of each timeslot to indicate past time, current hour, or if the timeslot has not passed. Additionally, you are able to save your notes within each timeslot and come back to it later to review your agenda for the day. This project demonstrates my skill and knowledge in applying API's, JQuery, and Bootstrap. 
 
-<b>05 Third-Party APIs: Work Day Scheduler</b>
-<br>
-<br>
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+## Table of Contents
 
-You'll need to use the Moment.js library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+* [License](#license)
+* [Contributing](#contributing)
+* [Screenshot](#screenshot)
+* [Link](#link)
+* [Questions](#questions)
 
-<b>User Story</b>
-<br>
-Implement the following user story:
+## License
 
-AS AN employee with a busy schedule
-<br>
-I WANT to add important events to a daily planner
-<br>
-SO THAT I can manage my time effectively
-<br>
-<br>
-<b>Acceptance Criteria</b>
-<br>
-<br>
-Aim to meet the following acceptance criteria:
-<br>
-GIVEN I am using a daily planner to create a schedule
-<br>
-WHEN I open the planner
-<br>
-THEN the current day is displayed at the top of the calendar
-<br>
-WHEN I scroll down
-<br>
-THEN I am presented with timeblocks for standard business hours
-<br>
-WHEN I view the timeblocks for that day
-<br>
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-<br>
-WHEN I click into a timeblock
-<br>
-THEN I can enter an event
-<br>
-WHEN I click the save button for that timeblock
-<br>
-THEN the text for that event is saved in local storage
-<br>
-WHEN I refresh the page
-<br>
-THEN the saved events persist
-<br>
-The following animation demonstrates the application functionality:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A user clicks on slots on the color-coded calendar and edits the events.
+MIT
 
-<b>Review</b>
-<br>
-<br>
-You are required to submit the following for review:
+## Contributing
 
-The URL of the deployed application
+I am the sole contributor on this project.
 
-The URL of the GitHub repository, with a unique name and a README describing the project
+# Screenshot
+Here is a mock of the Work-day Scheduler App.
 
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+![Weather_App](assets\Img\workScheduler.png)
+
+# Link
+Take a look at the live version [here.](https://martinrenteria.github.io/Work-Day-Scheduler/)
+
+## Questions
+
+If you have any questions, please contact me with the information below.
+
+[GitHub: MartinRenteria](https://github.com/MartinRenteria)
+
+Email: renteriamp96@gmail.com
