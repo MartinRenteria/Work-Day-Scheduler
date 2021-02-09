@@ -24,7 +24,7 @@ I am the sole contributor on this project.
 # Screenshot
 Here is a mock of the Work-day Scheduler App.
 
-![Weather_App](assets\Img\workScheduler.png)
+![Work-Day-Scheduler_App](assets/Img/workScheduler.png)
 
 # Link
 Take a look at the live version [here.](https://martinrenteria.github.io/Work-Day-Scheduler/)
